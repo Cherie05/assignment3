@@ -1,0 +1,660 @@
+.navbar .container-fluid {
+    flex-direction: column;
+    border-bottom: 2px solid grey;
+    padding-bottom: 10px;
+    margin: auto;
+    text-align: center;
+}
+.navbar .navbar-nav .nav-link{
+    color: #000;
+}
+.navbar .navbar-nav{
+    margin-top: 30px;
+    margin-bottom: 19px;
+}
+
+.navbar-nav > li{
+    text-align: center;
+    margin-top: 10px;
+
+}
+body{
+    font-family: 'Segoe UI';
+    font-weight:600;
+}
+h1{
+    width: 548px;
+    height: 108px;
+    margin-top:98px;
+    margin-left: 121px;
+    font-family: Nunito Sans;
+    font-weight: 900;
+    font-size: 40px;
+    opacity: 1;
+    color: #000;
+}
+h5{
+    margin-top: 20px;
+    margin-left: 121px;
+    width: 520px;
+    height: 120px;
+    font-size: 18px;
+    font-family: Nunito Sans;
+    font-weight: normal;
+    text-align: left;
+}
+.mask-img{
+    opacity: 1;    
+}
+
+.button1 {
+    border-style: none;
+    border-radius:33px;
+    margin-top: 32px;
+    margin-left: 121px;
+    width: 247px;
+    height: 65px;
+    background: #1492E6
+}
+#container1 a{
+    font-family: Nunito Sans;
+    font-size: 23px;
+    font-weight: normal;
+    color: #FFFFFF;
+    border: none;
+    
+}
+
+#Cards1{
+    padding: 100px;
+    text-align: center;
+    
+}
+#cards1 h2{
+    width: 888px;
+    height: 47px;
+    text-align: center;
+    margin:auto;
+    font-family: Nunito Sans;
+    font-weight: bold;
+    font-size: 35px;
+}
+.card h3{
+    font-family: Nunito Sans;
+    font-weight: bold;
+    font-size: 18px;
+    text-align: center;
+    margin: auto;
+    width: 190px;
+    height: 24px;
+} 
+.card{
+    text-align: center;
+    margin:auto;
+    width: 308px;
+    height: 320px;
+    border-radius: 18px;
+}
+.row{
+    margin-top: 60px;
+}
+.card-body p {
+    width: 275px;
+    height: 192px;
+    font-family: Nunito Sans;
+    font-weight: normal;
+    font-size: 18px;
+    text-align: left;
+}
+#features   {
+    padding: 100px;
+    text-align: center;
+}
+#features h2{
+    width: 888px;
+    height: 47px;
+    text-align: center;
+    margin:auto;
+    font-family: Nunito Sans;
+    font-weight: bold;
+    font-size: 35px;
+}
+.feature-box h3{
+    width: 190px;
+    height: 24px;
+    font-family: Nunito Sans;
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: 41px;
+    text-align: center;
+}
+.feature-box p{
+    width: 328px;
+    height: 168px;
+    text-align: left;
+    margin-top: 15px;
+    font-family: Nunito Sans;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 24px;
+    letter-spacing: 0;
+}
+#options{
+    padding: 100px;
+    text-align: center;
+}
+#options1 h2{
+    width: 888px;
+    height: 47px;
+    text-align: center;
+    margin:auto;
+    font-family: Nunito Sans;
+    font-weight: bold;
+    font-size: 35px;
+}
+.options-1{
+    margin-left: 105px;
+    margin-top: 92px;
+    width: auto;
+}
+
+
+.options-1 h3{
+    width: 253px;
+    height: 32px;
+    margin-left:10px;
+    text-align: center;
+    font-size: 24px;
+    margin-top: 24px;
+    font-family: Nunito Sans;
+    font-weight: bold;
+}
+.options-1p{
+    text-align: left;
+    width: 900px;
+    height: 56px;
+    margin-left: 105px;
+    margin-top: 14px;
+    font-family: Nunito Sans;
+    font-weight: normal;
+    font-size: 21px;
+    line-height: 28px;
+    letter-spacing: 0;
+}
+.oh3{
+    width: 253px;
+height: 32px;
+}
+.button2{
+    border-style: none;
+    border-radius:33px;
+    margin-top: 14px;
+    margin-left: 105px;
+    background: #1492E6; 
+    font-size: 20px;
+}
+
+
+.options-2{
+    margin-left: 747px;
+    margin-top: 94px;
+    width: auto;
+}
+.options-2 h3{
+    width: 253px;
+    height: 32px;
+    margin-left:10px;
+    text-align: center;
+    font-size: 24px;
+    margin-top: 24px;
+    font-family: Nunito Sans;
+    font-weight: bold;
+}
+.options-2p{
+    text-align: left;
+    width: 644px;
+    height: 56px;
+    margin-left: 747px;
+    margin-top: 14px;
+    font-family: Nunito Sans;
+    font-weight: normal;
+    font-size: 21px;
+    line-height: 28px;
+    letter-spacing: 0;
+}
+.button3{
+    border-style: none;
+    border-radius:33px;
+    margin-top: 14px;
+    margin-left: 747px;
+    background: #1492E6; 
+    font-size: 20px;
+}
+.button3-a{
+    text-align: left;
+    margin-left: 0;
+}
+.custom-row {
+    border-radius: 42px;
+    width: 1097px;
+    box-shadow: 0px 16px 48px #00000029;
+    background: #F8FAFC;
+    margin: auto;
+}
+
+.custom-card-img-top {
+    width: 50px;
+    right: 10px;
+}
+
+.custom-testimonials {
+    padding: 100px;
+    text-align: center;
+    margin: auto;
+    padding-top: 20%;
+}
+
+.custom-testimonials-h5 {
+    text-align: center;
+    float: right;
+    font-family: Nunito Sans;
+    font-weight: 600;
+    font-size: 13px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.custom-h3 {
+    text-align: left;
+    font-family: Nunito Sans;
+    font-weight: normal;
+    font-size: 25px;
+    position: relative;
+    top: 30px;
+    left: 20px;
+}
+
+.custom-testimonialscard {
+    width: 285px;
+    height: 263px;
+    border-radius: 30px;
+    margin: auto;
+}
+
+.custom-card-text {
+    font-size: 5px;
+    text-align: center;
+    width: 0%;
+}
+
+.custom-testimonials-h5 {
+    text-align: left;
+}
+
+.custom-img-right {
+    position: relative;
+    left: 70px;
+}
+
+.custom-testimonials-h5 p {
+    text-align: left;
+    font-family: Nunito Sans;
+    font-weight: normal;
+    font-size: 13px;
+    position: relative;
+    bottom: 18px;
+    margin-left: 51px;
+}
+
+.custom-card-body p {
+    position: relative;
+    bottom: 30px;
+    font-family: Nunito Sans;
+    font-weight: normal;
+    font-size: 13px;
+    width: 237px;
+    height: 126px
+}
+.button4{
+    margin-right: 20px;
+    margin-bottom: 40px;
+}
+.custom-h2{
+    width: 888px;
+    height: 47px;
+    text-align: center;
+    margin:auto;
+    font-family: Nunito Sans;
+    font-weight: bold;
+    font-size: 35px;
+    position: relative;
+    bottom: 100px;
+}
+#features2{
+    text-align: center;
+    margin: auto;
+}
+#features2 h2{
+    width: 888px;
+    height: 47px;
+    margin: auto;
+    
+}
+.feature-box2{
+    text-align: center;
+    margin: auto;
+}
+.feature-box2 h3{
+    margin: auto;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 24px;
+    position: relative;
+    top: 20px;
+}
+footer{
+    width:100%;
+    height: 369px;
+    margin-top: 189px;
+}
+footer p{
+    position: relative;
+    top: 288px;
+    font-size: 18px;
+    font-family: Nunito Sans;
+    font-weight: bold;
+}
+@media (max-width:1028px) {
+    h1{
+        font-family: Nunito Sans;
+        font-weight: 900;
+        font-size: 30px;
+        opacity: 1;
+        color: #000;
+        text-align: left;
+        margin-left: 0;
+        margin-top: 0;
+        width: auto;
+    }
+    h5{
+        margin-top: 0;
+        font-size: 15px;
+        font-family: Nunito Sans;
+        font-weight: normal;
+        text-align: left;
+        width: auto;
+        margin-left: 0;
+    }
+    .mask-img{
+        opacity: 1;
+        width: 80%; 
+        text-align: center; 
+        margin-left: 50px;
+        margin-top: 20px;
+  
+    }
+    
+    .button1 {
+        border-style: none;
+        border-radius:33px;
+        margin-top: 0px;
+        margin-left: 0px;
+        width: 247px;
+        height: 65px;
+        background: #1492E6
+    }
+    .genre-col{
+        padding: 3% 2%;
+    }
+    #features   {
+        padding: 0px;
+        text-align: center;
+    }
+    #features h2{
+        width: auto;
+        text-align: center;
+        margin:auto;
+        font-family: Nunito Sans;
+        font-weight: bold;
+        font-size: 35px;
+        margin-top: 20px;
+    }
+    .feature-box{
+        margin-top: 100px;
+    }
+    
+    #options{
+        padding: 0px;
+        text-align: center;
+        margin-top: 20px;
+    }
+    .options-h2{
+        width: auto;
+        text-align: center;
+        margin:auto;
+        font-family: Nunito Sans;
+        font-weight: bold;
+        font-size: 35px;
+        margin-top: 20px;
+    }
+    .options-1{
+        margin-left: 0px;
+        margin-top: 80px;
+        width: auto;
+    }
+    
+    
+    .options-1 h3{
+        width: 253px;
+        height: 32px;
+        margin-left:0px;
+        text-align: center;
+        font-size: 24px;
+        margin-top: 24px;
+        font-family: Nunito Sans;
+        font-weight: bold;
+    }
+    .options-1p{
+        text-align: left;
+        width: 900px;
+        height: 56px;
+        margin-left: 0px;
+        margin-top: 14px;
+        font-family: Nunito Sans;
+        font-weight: normal;
+        font-size: 21px;
+        line-height: 28px;
+        letter-spacing: 0;
+    }
+   
+    .button2{
+        border-style: none;
+        border-radius:33px;
+        margin-top: 100px;
+        margin-left: 0px;
+        background: #1492E6; 
+        font-size: 20px;
+    }
+    
+    
+    .options-2{
+        margin-top: 80px;
+        width: auto;
+        margin-left: 0;
+        padding: 0;
+    }
+    .options-2 h3{
+        width: 253px;
+        height: 32px;
+        margin-left:0px;
+        text-align: center;
+        font-size: 24px;
+        margin-top: 24px;
+        font-family: Nunito Sans;
+        font-weight: bold;
+        float:none;
+    }
+    .options-2p{
+        text-align: left;
+        width: 900px;
+        height: 56px;
+        margin-left: 0px;
+        margin-top: 14px;
+        font-family: Nunito Sans;
+        font-weight: normal;
+        font-size: 21px;
+        line-height: 28px;
+        letter-spacing: 0;
+    }
+    .button3{
+        border-style: none;
+        border-radius:33px;
+        margin-top: 100px;
+        margin-left: 60px;
+        background: #1492E6; 
+        font-size: 20px;
+    }
+    .button3-a{
+        text-align: left;
+        margin-left: 0;
+    }
+    .custom-row {
+        border-radius: 42px;
+        width: 300px;
+        box-shadow: 0px 16px 48px #00000029;
+        background: #F8FAFC;
+        padding:0;
+        margin: auto;
+    }
+    
+    .custom-card-img-top {
+        width: auto;
+        right: 10px;
+    }
+    
+    .custom-testimonials {
+        padding: 0px;
+        text-align: center;
+        margin-top: 100px;
+        padding-top: 20%;
+    }
+    
+    .custom-testimonials-h5 {
+        text-align: center;
+        float: right;
+        font-family: Nunito Sans;
+        font-weight: 600;
+        font-size: 13px;
+        margin-left: 20px;
+        margin-top: 20px;
+    }
+    
+    .custom-h3 {
+        text-align: left;
+        font-family: Nunito Sans;
+        font-weight: normal;
+        font-size: 25px;
+        position: relative;
+        top: 30px;
+        left: 20px;
+    }
+    
+    .custom-testimonialscard {
+        width: 285px;
+        height: 263px;
+        border-radius: 30px;
+        margin: auto;
+    }
+    
+    .custom-card-text {
+        font-size: 5px;
+        text-align: center;
+        width: 0%;
+    }
+    
+    .custom-testimonials-h5 {
+        text-align: left;
+    }
+    
+    .custom-img-right {
+        position: relative;
+        left: 70px;
+    }
+    
+    .custom-testimonials-h5 p {
+        text-align: left;
+        font-family: Nunito Sans;
+        font-weight: normal;
+        font-size: 13px;
+        position: relative;
+        bottom: 18px;
+        margin-left: 51px;
+    }
+    
+    .custom-card-body p {
+        position: relative;
+        padding: 0;
+        margin: auto;
+        bottom: 30px;
+        font-family: Nunito Sans;
+        font-weight: normal;
+        font-size: 13px;
+        width: 237px;
+        height: 126px
+        
+    }
+    .button4{
+        margin-right: 20px;
+        margin-bottom: 40px;
+    }
+    .custom-h2{
+        width: 253px;
+        height: 32px;
+        text-align: center;
+        font-size: 24px;
+        margin-top: 24px;
+        font-family: Nunito Sans;
+        font-weight: bold;
+        float:none;
+    }
+    #features2{
+        text-align: center;
+        padding: 0%;
+        margin-top: 80px;
+    }
+    #features2 h2{
+        width: 253px;
+        height: 32px;
+        text-align: center;
+        font-size: 24px;
+        margin-top: 24px;
+        font-family: Nunito Sans;
+        font-weight: bold;
+        float:none;
+    }
+    .feature-box2{
+        text-align: center;
+        margin-top: 80px;
+    }
+    .feature-box2 h3{
+        margin: auto;
+        text-align: center;
+        letter-spacing: 0;
+        line-height: 24px;
+        position: relative;
+        top: 20px;
+    }
+    footer{
+    width:100%;
+    height: 369px;
+    margin-top: 189px;
+}
+footer p{
+    position: relative;
+    top: 288px;
+    font-size: 18px;
+    font-family: Nunito Sans;
+    font-weight: bold;
+}
+
+}
